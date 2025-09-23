@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.f855e6bc.css",
-    "main.js": "./static/js/main.2b0498fb.js",
-    "static/js/453.569f7c2f.chunk.js": "./static/js/453.569f7c2f.chunk.js",
-    "index.html": "./index.html",
-    "main.f855e6bc.css.map": "./static/css/main.f855e6bc.css.map",
-    "main.2b0498fb.js.map": "./static/js/main.2b0498fb.js.map",
-    "453.569f7c2f.chunk.js.map": "./static/js/453.569f7c2f.chunk.js.map"
+    "main.css": "/firmora/static/css/main.f855e6bc.css",
+    "main.js": "/firmora/static/js/main.643ba1a3.js",
+    "static/js/453.569f7c2f.chunk.js": "/firmora/static/js/453.569f7c2f.chunk.js",
+    "index.html": "/firmora/index.html",
+    "main.f855e6bc.css.map": "/firmora/static/css/main.f855e6bc.css.map",
+    "main.643ba1a3.js.map": "/firmora/static/js/main.643ba1a3.js.map",
+    "453.569f7c2f.chunk.js.map": "/firmora/static/js/453.569f7c2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2b0498fb.js"
+    "static/js/main.643ba1a3.js"
   ]
 }
