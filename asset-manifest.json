@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/firmora/static/css/main.f855e6bc.css",
-    "main.js": "/firmora/static/js/main.643ba1a3.js",
+    "main.js": "/firmora/static/js/main.fc3f9126.js",
     "static/js/453.569f7c2f.chunk.js": "/firmora/static/js/453.569f7c2f.chunk.js",
     "index.html": "/firmora/index.html",
     "main.f855e6bc.css.map": "/firmora/static/css/main.f855e6bc.css.map",
-    "main.643ba1a3.js.map": "/firmora/static/js/main.643ba1a3.js.map",
+    "main.fc3f9126.js.map": "/firmora/static/js/main.fc3f9126.js.map",
     "453.569f7c2f.chunk.js.map": "/firmora/static/js/453.569f7c2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.643ba1a3.js"
+    "static/js/main.fc3f9126.js"
   ]
 }
