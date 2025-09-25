@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/allinone-personal/static/css/main.f855e6bc.css",
-    "main.js": "/allinone-personal/static/js/main.204704cf.js",
+    "main.js": "/allinone-personal/static/js/main.c8339873.js",
     "static/js/453.4167ed9f.chunk.js": "/allinone-personal/static/js/453.4167ed9f.chunk.js",
     "index.html": "/allinone-personal/index.html",
     "main.f855e6bc.css.map": "/allinone-personal/static/css/main.f855e6bc.css.map",
-    "main.204704cf.js.map": "/allinone-personal/static/js/main.204704cf.js.map",
+    "main.c8339873.js.map": "/allinone-personal/static/js/main.c8339873.js.map",
     "453.4167ed9f.chunk.js.map": "/allinone-personal/static/js/453.4167ed9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.204704cf.js"
+    "static/js/main.c8339873.js"
   ]
 }
