@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/firmora/static/css/main.f855e6bc.css",
-    "main.js": "/firmora/static/js/main.1d94f3fb.js",
-    "static/js/453.569f7c2f.chunk.js": "/firmora/static/js/453.569f7c2f.chunk.js",
-    "index.html": "/firmora/index.html",
-    "main.f855e6bc.css.map": "/firmora/static/css/main.f855e6bc.css.map",
-    "main.1d94f3fb.js.map": "/firmora/static/js/main.1d94f3fb.js.map",
-    "453.569f7c2f.chunk.js.map": "/firmora/static/js/453.569f7c2f.chunk.js.map"
+    "main.css": "/allinone-personal/static/css/main.f855e6bc.css",
+    "main.js": "/allinone-personal/static/js/main.c8339873.js",
+    "static/js/453.4167ed9f.chunk.js": "/allinone-personal/static/js/453.4167ed9f.chunk.js",
+    "index.html": "/allinone-personal/index.html",
+    "main.f855e6bc.css.map": "/allinone-personal/static/css/main.f855e6bc.css.map",
+    "main.c8339873.js.map": "/allinone-personal/static/js/main.c8339873.js.map",
+    "453.4167ed9f.chunk.js.map": "/allinone-personal/static/js/453.4167ed9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1d94f3fb.js"
+    "static/js/main.c8339873.js"
   ]
 }
