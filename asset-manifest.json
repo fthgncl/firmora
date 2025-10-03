@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/firmora/static/css/main.00bc3451.css",
-    "main.js": "/firmora/static/js/main.f9f2a118.js",
+    "main.js": "/firmora/static/js/main.3a90333c.js",
     "static/js/453.569f7c2f.chunk.js": "/firmora/static/js/453.569f7c2f.chunk.js",
     "static/media/allinone-trade-background.png": "/firmora/static/media/allinone-trade-background.4addd0ec624c10be4da9.png",
     "index.html": "/firmora/index.html",
     "main.00bc3451.css.map": "/firmora/static/css/main.00bc3451.css.map",
-    "main.f9f2a118.js.map": "/firmora/static/js/main.f9f2a118.js.map",
+    "main.3a90333c.js.map": "/firmora/static/js/main.3a90333c.js.map",
     "453.569f7c2f.chunk.js.map": "/firmora/static/js/453.569f7c2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00bc3451.css",
-    "static/js/main.f9f2a118.js"
+    "static/js/main.3a90333c.js"
   ]
 }
